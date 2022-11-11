@@ -1,0 +1,13 @@
+{
+  "require": {
+    "php": ">= 7.4",
+    "ext-json": "*",
+    "twilio/sdk": "6.43.2",
+    "vlucas/phpdotenv": "^5.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "StackOverflowTwilioPHPExamples\\": "src"
+    }
+  }
+}
